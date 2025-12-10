@@ -1,0 +1,27 @@
+.gitignore
+*.class
+*.log
+*.jar
+*.war
+*.ear
+target/
+.idea/
+*.iml
+.settings/
+.project
+.classpath
+bin/
+
+# Arquivos sensíveis - NUNCA COMMITAR
+*.pfx
+*.p12
+# *certificado* - removido para permitir commit da classe CertificadoDigital.java
+application.properties
+application-*.properties
+.env
+
+# Certificados (extensões específicas)
+certificado.pfx
+certificado.p12
+*.pem
+*.key
