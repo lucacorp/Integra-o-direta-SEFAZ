@@ -27,7 +27,7 @@ O uso em produção é responsabilidade do integrador.
 ## 💙 Apoie o projeto
 Se este repositório te ajudou:
 - ☕ Buy Me a Coffee
-- 💳 Pix: luka.pantano@gmail.com
+- 💳 Pix: lucapantano@hotmail.com
 - ⭐ Star no GitHub já ajuda muito
 
 Criado por **Luca Alexandre Pantano**
