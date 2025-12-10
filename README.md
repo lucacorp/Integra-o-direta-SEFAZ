@@ -289,6 +289,13 @@ Esta biblioteca é fornecida "como está", sem garantias. Teste extensivamente e
 
 ---
 
-**Desenvolvido com ❤️ pela comunidade brasileira de desenvolvedores**
+## 💙 Apoie o projeto
+Se este repositório te ajudou:
+- ☕ Buy Me a Coffee
+- 💳 Pix: lucapantano@hotmail.com
+- ⭐ Star no GitHub já ajuda muito
+
+Criado por **Luca Alexandre Pantano**
+
 
 **#OpenSource #NFe #SEFAZ #Brasil #Java #SpringBoot**
